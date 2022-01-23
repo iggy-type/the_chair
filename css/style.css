@@ -110,14 +110,14 @@ header img {
 }
 .Title-comment h1, .Title-comment p {
   text-shadow:
-  1px  1px 8px var(--titlecolor),
-  -1px  1px 8px var(--titlecolor),
-  1px -1px 8px var(--titlecolor),
-  -1px -1px 8px var(--titlecolor),
-  1px  0px 8px var(--titlecolor),
-  0px  1px 8px var(--titlecolor),
-  -1px  0px 8px var(--titlecolor),
-  0px -1px 8px var(--titlecolor);
+  1px  1px 7px var(--titlecolor),
+  -1px  1px 7px var(--titlecolor),
+  1px -1px 7px var(--titlecolor),
+  -1px -1px 7px var(--titlecolor),
+  1px  0px 7px var(--titlecolor),
+  0px  1px 7px var(--titlecolor),
+  -1px  0px 7px var(--titlecolor),
+  0px -1px 7px var(--titlecolor);
 }
 
 /* ハンバーガーメニュー */
